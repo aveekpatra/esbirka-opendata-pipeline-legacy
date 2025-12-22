@@ -1,3 +1,4 @@
 ijson
 tqdm
 requests
+yyjson
