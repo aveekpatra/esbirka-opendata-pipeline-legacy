@@ -13,8 +13,8 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # 2. Clone repository
-!git clone https://github.com/YOUR_USERNAME/esbirka-pipeline.git
-%cd esbirka-pipeline
+!git clone https://github.com/aveekpatra/github-esbirka.git
+%cd github-esbirka
 
 # 3. Install dependencies
 !pip install -q ijson tqdm requests
