@@ -30,7 +30,7 @@ SYNC_DIR = OUTPUT_DIR / '_sync'
 # OPENDATA SETTINGS
 # ============================================================================
 
-OPENDATA_BASE_URL = "https://opendata.eselpoint.cz/DDATAJ1/"
+OPENDATA_BASE_URL = "https://opendata.eselpoint.cz/datove-sady-esbirka/"
 
 # Files needed for Phase 1
 REQUIRED_FILES = [
